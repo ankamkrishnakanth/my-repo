@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+Updated upstream
 2nd one
 =======
 bbabl
